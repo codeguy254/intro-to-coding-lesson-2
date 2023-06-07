@@ -1,0 +1,15 @@
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/bin/Debug/net7.0/program
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/bin/Debug/net7.0/program.deps.json
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/bin/Debug/net7.0/program.runtimeconfig.json
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/bin/Debug/net7.0/program.dll
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/bin/Debug/net7.0/program.pdb
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/program.csproj.AssemblyReference.cache
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/program.AssemblyInfoInputs.cache
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/program.AssemblyInfo.cs
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/program.csproj.CoreCompileInputs.cache
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/program.dll
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/refint/program.dll
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/program.pdb
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/program.genruntimeconfig.cache
+/Users/dennisrobi/Desktop/HONEY.html/images/Intro to coding lesson 2/program/obj/Debug/net7.0/ref/program.dll
